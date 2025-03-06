@@ -1,0 +1,13 @@
+This Face Mask Detection (FMD) System was developed using Python, Deep Learning (CNN), OpenCV, and Arduino to promote public health and safety. The system analyzes real-time video streams to detect whether individuals are wearing masks and provides instant feedback using LED indicators and buzzer alerts.
+
+📽️ Live Demonstration
+🎥 Watch the demo video in the presentation file.
+
+🔹 Features
+✔ Real-time Face Mask Detection
+✔ Deep Learning Model (CNN) for Accurate Predictions
+✔ Integrated with Arduino for Immediate Feedback 
+✔ Serial Communication Between Python & Arduino 
+✔ Ideal for Public & Workplace Safety 
+
+🚀 Tech Stack: Python, TensorFlow/Keras, OpenCV, CNN, Arduino, Serial Communication
